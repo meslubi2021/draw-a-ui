@@ -11,7 +11,7 @@
   "dependencies": {
     "@tldraw/tldraw": "2.0.0-alpha.17",
     "canvas-size": "^1.2.6",
-    "next": "14.0.1",
+    "next": "14.1.1",
     "prismjs": "^1.29.0",
     "react": "^18",
     "react-dom": "^18"
